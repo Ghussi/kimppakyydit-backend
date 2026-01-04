@@ -1,0 +1,6 @@
+@Kimppakyydit.Api_HostAddress = http://localhost:5113
+
+GET {{Kimppakyydit.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
